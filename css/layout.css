@@ -297,6 +297,7 @@ fieldset[disabled] .btn-theme {
 ------------------------------------------------------------------*/
 .work {
   position: relative;
+  cursor: pointer !important;
 }
 
 .work .work-overlay {
